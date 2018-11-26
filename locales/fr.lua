@@ -55,4 +55,12 @@ Locales['fr'] = {
   ['have_withdrawn']                  = 'Vous avez retiré ~y~x%s~s~ ~b~%s~s~',
   ['have_deposited']                  = 'Vous avez deposé ~y~x%s~s~ ~b~%s~s~',
   ['boss_actions']                    = 'Actions du chef',
+
+  -- sold vehicles
+  ['boss_sold']                       = 'list of sold vehicles',
+  ['customer_client']                 = 'customer name',
+  ['customer_model']                  = 'car model',
+  ['customer_plate']                  = 'car plate',
+  ['customer_soldby']                 = 'sold by',
+  ['customer_date']                   = 'date',
 }
